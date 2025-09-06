@@ -1,3 +1,5 @@
+This guinea pig has some thoughts.
+
 # Selfie: snapshot testing and memoizing for Python, JVM, and [(your PR here)](https://github.com/diffplug/selfie/issues/85)
 
 ![gif demo of selfie in action](https://docs.diffplug.com/selfie/selfie-demo.gif)
